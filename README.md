@@ -6,4 +6,5 @@
 
 ## Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeGuzmanSantoyo&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeGuzmanSantoyo&layout=compact&theme=radical&langs_count=10)
+
