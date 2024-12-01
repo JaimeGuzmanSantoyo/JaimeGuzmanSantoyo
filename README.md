@@ -2,7 +2,7 @@
 
 ## Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JaimeGuzmanSantoyo&show_icons=true&theme=radical)
+![📊 GitHub Stats 📊](https://github-readme-stats.vercel.app/api?username=JaimeGuzmanSantoyo&show_icons=true&theme=radical)
 
 ## Lenguajes más usados
 
